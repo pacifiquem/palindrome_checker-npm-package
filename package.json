@@ -1,0 +1,23 @@
+{
+  "name": "palindrome_checker",
+  "version": "1.0.0",
+  "description": "cheking if the word or sentence entered is a palindrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheking",
+    "palindrome"
+  ],
+  "author": "Pacifique Murangwa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paccy001/palindrome_checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paccy001/palindrome_checker/issues"
+  },
+  "homepage": "https://github.com/paccy001/palindrome_checker#readme"
+}
