@@ -1,4 +1,19 @@
-const run = require('nodemon/lib/monitor/run');
-const {palindrome_checker} = require('./palindromeChecker');
+module.exports.checkPalindrome = function checkPL(word){
+    word.toLowerCase();
 
-console.log(palindrome_checker('nurse run'));
+   let str = word.split("")
+
+   //identifier
+    let i;
+    let reversed ="";
+
+    for(i = str.length - 1;i >= 0;i--){
+           reversed += str[i];
+    }
+
+    if(reversed ==word){
+       return true;
+    }else{
+        return  false;
+    }
+}

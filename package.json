@@ -14,10 +14,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paccy001/palindrome_checker.git"
+    "url": "https://github.com/paccy001/myPackages.git"
   },
   "bugs": {
-    "url": "https://github.com/paccy001/palindrome_checker/issues"
+    "url": "https://github.com/paccy001/myPackeges/issues"
   },
-  "homepage": "https://github.com/paccy001/palindrome_checker#readme"
+  "homepage": "https://github.com/paccy001/myPackeges#readme"
 }
