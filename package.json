@@ -8,7 +8,8 @@
   },
   "keywords": [
     "chekingpalindrome",
-    "PacifiqueMurangwa","rca"
+    "PacifiqueMurangwa",
+    "rca"
   ],
   "author": "Pacifique Murangwa",
   "license": "ISC",
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/paccy001/myPackeges/issues"
   },
-  "homepage": "https://github.com/paccy001/myPackeges#readme"
+  "homepage": "https://github.com/paccy001/myPackeges#readme",
+  "dependencies": {
+    "palidrome_tester": "^1.0.0"
+  }
 }

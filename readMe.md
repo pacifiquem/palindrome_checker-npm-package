@@ -2,6 +2,7 @@
 #nothing simple like using it, these are few steps:
 
 #download the package
-#require it in your project
-#to check if the word entered is a palindrome type
-#checkPlindrome('anyword here');
+#decrale a variable and-
+#require palindrome-tester in your project
+#to check if the word entered is a palindrome type:
+#variablename.checkPlindrome('anyword here');

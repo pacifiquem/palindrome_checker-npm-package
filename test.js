@@ -1,3 +1,3 @@
-const {checkPalindrome} = require('./index');
+const check = require('palidrome_tester');
 
-console.log(checkPalindrome('car'));
+console.log(check.checkPalindrome('car'));
