@@ -8,10 +8,9 @@ module.exports.checkPalindrome = function checkPL(word){
     let reversed ="";
 
     for(i = str.length - 1;i >= 0;i--){
-           reversed += str[i];
+        reversed += str[i];
     }
-
-    if(reversed ==word){
+    if(reversed == word){
        return true;
     }else{
         return  false;
